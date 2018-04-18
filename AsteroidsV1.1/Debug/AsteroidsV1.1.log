@@ -1,0 +1,2 @@
+﻿asteroide.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  AsteroidsV1.1.vcxproj -> C:\Users\Raquel\Desktop\Programacion_de_sistemas\C++\Asteroids\AsteroidsV1.1\Debug\AsteroidsV1.1.exe
